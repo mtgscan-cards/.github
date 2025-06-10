@@ -30,7 +30,7 @@ This organization hosts the fullstack application, keypoint detection model, and
 
 ---
 
-### [`simple-mtg-feature-extraction`](https://github.com/mtgscan-cards/simple-mtg-feature-extraction)
+### [`simple-mtg-feature-extraction`](https://github.com/mtgscan-cards/simple-mtg-feature-extraction/tree/production)
 > 🧠 Feature extraction pipeline for card identification
 
 - Uses OpenCV + SIFT/RootSIFT for feature vector generation
